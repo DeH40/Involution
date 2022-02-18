@@ -10,7 +10,7 @@ CuPy implementation of the 2D involution. Additionally, [shikishima-TasakiLab](h
 ## Installation
 The 2D and 3D involution can be easily installed by using `pip`.
 ````shell script
-pip install git+https://github.com/ChristophReich1996/Involution
+pip install git+https://github.com/DeH40/Involution
 ````
 
 ## Example Usage
